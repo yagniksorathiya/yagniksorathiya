@@ -1,7 +1,7 @@
 <h1 align="center">Hey &#128075;&#127995;, I'm Yagnik Sorathiya </h1>
 <h3 align="center"> Data Science , Data Analyst and AWS Learner</h3>
 <hr align="left" color= "black" />
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/yagniksorathiya/yagniksorathiya/assets/129974278/c0f59521-cb23-4781-9749-6c7e9654a0ed">
 <h3 align="left">➲ Connect with me:</h3>
 <p align="left">&nbsp;
 <a href="https://www.linkedin.com/in/yagnik-sorathiya-b788471b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagnik soratrhiya" height="30" width="40" /></a>
@@ -30,7 +30,8 @@ alt="matplotlib" width="90" height="40"/> </a>
 <br/><br/><br/>
 
 <img align="center" alt="Coding" width="700"
-src= "https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966">
+src= "https://github.com/yagniksorathiya/yagniksorathiya/assets/129974278/fd771c2c-1487-4a22-89a9-63051c688dac">
+
 
 <br/><br/>
 
